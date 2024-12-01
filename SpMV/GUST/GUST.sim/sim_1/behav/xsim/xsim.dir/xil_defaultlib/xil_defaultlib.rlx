@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/khar zadan/GUST/GUST/GUST.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+D:/khar zadan/GUST/GUST/GUST.srcs/sim_1/new/adder.v,1683823857,verilog,,D:/khar zadan/GUST/GUST/GUST.srcs/sim_1/new/connector.v,,adder,,,,,,,,
+D:/khar zadan/GUST/GUST/GUST.srcs/sim_1/new/connector.v,1684767238,verilog,,D:/khar zadan/GUST/GUST/GUST.srcs/sim_1/new/main.v,,connector,,,,,,,,
+D:/khar zadan/GUST/GUST/GUST.srcs/sim_1/new/io.v,1683923155,verilog,,D:/khar zadan/GUST/GUST/GUST.srcs/sim_1/new/main.v,,io,,,,,,,,
+D:/khar zadan/GUST/GUST/GUST.srcs/sim_1/new/main.v,1683903034,verilog,,D:/khar zadan/GUST/GUST/GUST.srcs/sim_1/new/multiplier.v,,main,,,,,,,,
+D:/khar zadan/GUST/GUST/GUST.srcs/sim_1/new/multiplier.v,1683823691,verilog,,D:/khar zadan/GUST/GUST/GUST.srcs/sim_1/new/tb.v,,multiplier,,,,,,,,
+D:/khar zadan/GUST/GUST/GUST.srcs/sim_1/new/tb.v,1683936802,verilog,,,,tb,,,,,,,,
